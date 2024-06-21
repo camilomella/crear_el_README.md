@@ -1,3 +1,3 @@
-<h1<>sisrema de registro<\h1>
+<h1> Sistema de registro </h1>
 
 - Estado: 
